@@ -6,9 +6,9 @@
 I'm a bachelor's graduate working toward a Software Engineer role by learning, building projects, and improving my problem-solving skills.
 
 ## 🚀 What I'm Working On
-- 📝 Building a Notes Application using HTML, CSS, and JavaScript.
-- 🐍 Practicing Python through small projects and coding exercises.
-- 📚 Strengthening my software development fundamentals.
+- Building a Notes Application using HTML, CSS, and JavaScript.
+- Practicing Python through small projects and coding exercises.
+- Strengthening my software development fundamentals.
 
 ## 🛠️ Technologies
 - **Languages:** Python, JavaScript
